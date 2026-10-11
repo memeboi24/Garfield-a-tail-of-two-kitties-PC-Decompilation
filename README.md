@@ -1,2 +1,3 @@
 # Garfield-a-tail-of-two-kittens-PC-Decompilation
-i made this repository incase i decide to actually start making a decompilation of the game, also as a beacon that could shine a bit of a spotlight on the possibility of decompiling this game ()
+i made this repository incase i decide to actually start making a decompilation of the game, also as a beacon that could shine a bit of a spotlight on the possibility of decompiling this game
+but as it is right now, this repository is kinda useless as i currently have no knowledge on how to decompile something, so you can star this if you want but its not certain if i'll actually pull it off or if people get the same idea as me
